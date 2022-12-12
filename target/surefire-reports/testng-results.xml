@@ -1,0 +1,669 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="3" failed="0" skipped="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching Browser...]]>
+    </line>
+    <line>
+      <![CDATA[Launching Browser...]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number...]]>
+    </line>
+    <line>
+      <![CDATA[Entering username...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Password...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Submit button]]>
+    </line>
+    <line>
+      <![CDATA[Logging in....]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on OK button]]>
+    </line>
+    <line>
+      <![CDATA[Clickinh on Close button]]>
+    </line>
+    <line>
+      <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Validating username...]]>
+    </line>
+    <line>
+      <![CDATA[Taking screenshot for username validation...]]>
+    </line>
+    <line>
+      <![CDATA[Getting account Balance]]>
+    </line>
+    <line>
+      <![CDATA[Available Balance in account is A/c Balance: Rs.5,00,000.00]]>
+    </line>
+    <line>
+      <![CDATA[Getting account Balance]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Dropdown...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on logout Button...]]>
+    </line>
+    <line>
+      <![CDATA[logging out...]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Launchinng browser]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Password...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Submit button]]>
+    </line>
+    <line>
+      <![CDATA[Logging in....]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on OK button]]>
+    </line>
+    <line>
+      <![CDATA[Clickinh on Close button]]>
+    </line>
+    <line>
+      <![CDATA[Clicling on button]]>
+    </line>
+    <line>
+      <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+    </line>
+    <line>
+      <![CDATA[Validating username and taking screenshot]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Dropdown...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on logout Button...]]>
+    </line>
+    <line>
+      <![CDATA[Logging Out.....]]>
+    </line>
+    <line>
+      <![CDATA[Entering Mobile Number...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Sign in Button]]>
+    </line>
+    <line>
+      <![CDATA[Entering Password...]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Submit button]]>
+    </line>
+    <line>
+      <![CDATA[Logging in....]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-12-12T22:35:45 IST" name="Suite" finished-at="2022-12-12T22:37:42 IST" duration-ms="116976">
+    <groups>
+    </groups>
+    <test started-at="2022-12-12T22:35:45 IST" name="Test" finished-at="2022-12-12T22:37:42 IST" duration-ms="116976">
+      <class name="neoStoxTestClasses.ValidateUsernameAndBalance">
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:35:52 IST" name="openBrowser" finished-at="2022-12-12T22:35:59 IST" duration-ms="7135" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:35:59 IST" name="login" finished-at="2022-12-12T22:36:20 IST" duration-ms="21342" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Mobile Number...]]>
+            </line>
+            <line>
+              <![CDATA[Entering username...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Password...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Submit button]]>
+            </line>
+            <line>
+              <![CDATA[Logging in....]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on OK button]]>
+            </line>
+            <line>
+              <![CDATA[Clickinh on Close button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="validatusername()[pri:-1, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:36:20 IST" name="validatusername" finished-at="2022-12-12T22:36:23 IST" duration-ms="2753" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Validating username...]]>
+            </line>
+            <line>
+              <![CDATA[Taking screenshot for username validation...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatusername -->
+        <test-method signature="validatebalance()[pri:0, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:36:23 IST" name="validatebalance" finished-at="2022-12-12T22:36:23 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Getting account Balance]]>
+            </line>
+            <line>
+              <![CDATA[Available Balance in account is A/c Balance: Rs.5,00,000.00]]>
+            </line>
+            <line>
+              <![CDATA[Getting account Balance]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validatebalance -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:36:23 IST" name="logout" finished-at="2022-12-12T22:36:24 IST" duration-ms="326" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Dropdown...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on logout Button...]]>
+            </line>
+            <line>
+              <![CDATA[logging out...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestClasses.ValidateUsernameAndBalance@4d5b6aac]" started-at="2022-12-12T22:37:42 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1670864862100" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStoxTestClasses.ValidateUsernameAndBalance -->
+      <class name="neoStoxTestClasses.ValidateSearchFunctionality">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:neoStoxTestClasses.ValidateSearchFunctionality@28f3b248]" started-at="2022-12-12T22:35:45 IST" name="OpenBrowser" finished-at="2022-12-12T22:35:52 IST" duration-ms="7052" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launching Browser...]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:neoStoxTestClasses.ValidateSearchFunctionality@28f3b248]" started-at="2022-12-12T22:36:24 IST" name="login" finished-at="2022-12-12T22:36:27 IST" duration-ms="3274" status="FAIL">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='txt_accesspin']"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b74305a1f303fc8239da985d167f7b9, findElement {using=xpath, value=//input[@id='txt_accesspin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56866}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56866/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b74305a1f303fc8239da985d167f7b9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='txt_accesspin']"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b74305a1f303fc8239da985d167f7b9, findElement {using=xpath, value=//input[@id='txt_accesspin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56866}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56866/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b74305a1f303fc8239da985d167f7b9
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy17.sendKeys(Unknown Source)
+at neoStoxPOMclasses.NeoStoxLogin.enterpin(NeoStoxLogin.java:43)
+at neoStoxTestClasses.ValidateSearchFunctionality.login(ValidateSearchFunctionality.java:52)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Mobile Number...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="validateSearch()[pri:0, instance:neoStoxTestClasses.ValidateSearchFunctionality@28f3b248]" started-at="2022-12-12T22:36:27 IST" name="validateSearch" finished-at="2022-12-12T22:36:27 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='txt_accesspin']"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b74305a1f303fc8239da985d167f7b9, findElement {using=xpath, value=//input[@id='txt_accesspin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56866}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56866/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b74305a1f303fc8239da985d167f7b9]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@id='txt_accesspin']"}
+  (Session info: chrome=108.0.5359.99)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5b74305a1f303fc8239da985d167f7b9, findElement {using=xpath, value=//input[@id='txt_accesspin']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56866}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56866/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 5b74305a1f303fc8239da985d167f7b9
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:162)
+at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:60)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:365)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:357)
+at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:70)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:39)
+at com.sun.proxy.$Proxy17.sendKeys(Unknown Source)
+at neoStoxPOMclasses.NeoStoxLogin.enterpin(NeoStoxLogin.java:43)
+at neoStoxTestClasses.ValidateSearchFunctionality.login(ValidateSearchFunctionality.java:52)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeBeforeClassMethods(TestMethodWorker.java:176)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:122)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearch -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTestClasses.ValidateSearchFunctionality@28f3b248]" started-at="2022-12-12T22:36:27 IST" name="logout" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1670864787311" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="CloseBrowser()[pri:0, instance:neoStoxTestClasses.ValidateSearchFunctionality@28f3b248]" started-at="2022-12-12T22:37:42 IST" name="CloseBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1670864862100" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseBrowser -->
+      </class> <!-- neoStoxTestClasses.ValidateSearchFunctionality -->
+      <class name="neoStoxTestClasses.ValidateUsername">
+        <test-method is-config="true" signature="OpenBrowser()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:36:27 IST" name="OpenBrowser" finished-at="2022-12-12T22:36:36 IST" duration-ms="8750" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Launchinng browser]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- OpenBrowser -->
+        <test-method is-config="true" signature="login()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:36:36 IST" name="login" finished-at="2022-12-12T22:37:06 IST" duration-ms="29950" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Mobile Number...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Password...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Submit button]]>
+            </line>
+            <line>
+              <![CDATA[Logging in....]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on OK button]]>
+            </line>
+            <line>
+              <![CDATA[Clickinh on Close button]]>
+            </line>
+            <line>
+              <![CDATA[Clicling on button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="validateusername()[pri:-1, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:06 IST" name="validateusername" finished-at="2022-12-12T22:37:06 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Actual Username is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Username of Account holder is Hi Akshay Mahajan]]>
+            </line>
+            <line>
+              <![CDATA[Validating username and taking screenshot]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- validateusername -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:06 IST" name="logout" finished-at="2022-12-12T22:37:08 IST" duration-ms="2137" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Dropdown...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on logout Button...]]>
+            </line>
+            <line>
+              <![CDATA[Logging Out.....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="login()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:08 IST" name="login" finished-at="2022-12-12T22:37:42 IST" duration-ms="33636" status="FAIL">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=108.0.5359.99)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79a011475c999e58617bd38202fc2c70, clickElement {id=0ebb6519-fdd2-43c1-9fdc-dae6675b2a80}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56964}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56964/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (79a011475c999e58617bd38202fc2c70)] -> xpath: (//a[text()='OK'])[2]]
+Session ID: 79a011475c999e58617bd38202fc2c70]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=108.0.5359.99)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79a011475c999e58617bd38202fc2c70, clickElement {id=0ebb6519-fdd2-43c1-9fdc-dae6675b2a80}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56964}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56964/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (79a011475c999e58617bd38202fc2c70)] -> xpath: (//a[text()='OK'])[2]]
+Session ID: 79a011475c999e58617bd38202fc2c70
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy17.click(Unknown Source)
+at neoStoxPOMclasses.NeoStoxPopup.okbutton(NeoStoxPopup.java:25)
+at neoStoxTestClasses.ValidateUsername.login(ValidateUsername.java:59)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Entering Mobile Number...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Sign in Button]]>
+            </line>
+            <line>
+              <![CDATA[Entering Password...]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Submit button]]>
+            </line>
+            <line>
+              <![CDATA[Logging in....]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="validateAccountBalance()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:42 IST" name="validateAccountBalance" finished-at="2022-12-12T22:37:42 IST" duration-ms="0" status="SKIP">
+          <exception class="org.openqa.selenium.ElementNotInteractableException">
+            <message>
+              <![CDATA[element not interactable
+  (Session info: chrome=108.0.5359.99)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79a011475c999e58617bd38202fc2c70, clickElement {id=0ebb6519-fdd2-43c1-9fdc-dae6675b2a80}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56964}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56964/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (79a011475c999e58617bd38202fc2c70)] -> xpath: (//a[text()='OK'])[2]]
+Session ID: 79a011475c999e58617bd38202fc2c70]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=108.0.5359.99)
+Build info: version: '4.4.0', revision: 'e5c75ed026a'
+System info: host: 'AKSHAY', ip: '192.168.0.103', os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.15'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [79a011475c999e58617bd38202fc2c70, clickElement {id=0ebb6519-fdd2-43c1-9fdc-dae6675b2a80}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 108.0.5359.99, chrome: {chromedriverVersion: 107.0.5304.62 (1eec40d3a576..., userDataDir: C:\Users\lenovo\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:56964}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: WINDOWS, proxy: Proxy(), se:cdp: ws://localhost:56964/devtoo..., se:cdpVersion: 108.0.5359.99, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on WINDOWS (79a011475c999e58617bd38202fc2c70)] -> xpath: (//a[text()='OK'])[2]]
+Session ID: 79a011475c999e58617bd38202fc2c70
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:200)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:133)
+at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:53)
+at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:184)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:167)
+at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:142)
+at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:547)
+at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:257)
+at org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:78)
+at jdk.internal.reflect.GeneratedMethodAccessor1.invoke(Unknown Source)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:52)
+at com.sun.proxy.$Proxy17.click(Unknown Source)
+at neoStoxPOMclasses.NeoStoxPopup.okbutton(NeoStoxPopup.java:25)
+at neoStoxTestClasses.ValidateUsername.login(ValidateUsername.java:59)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:62)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestInvoker.runConfigMethods(TestInvoker.java:700)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:527)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:284)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:119)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:428)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:162)
+at org.apache.maven.surefire.booter.ForkedBooter.run(ForkedBooter.java:562)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:548)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateAccountBalance -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:42 IST" name="logout" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1670864862098" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:neoStoxTestClasses.ValidateUsername@1b1426f4]" started-at="2022-12-12T22:37:42 IST" name="closeBrowser" finished-at="1970-01-01T05:30:00 IST" duration-ms="-1670864862100" status="SKIP">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- neoStoxTestClasses.ValidateUsername -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

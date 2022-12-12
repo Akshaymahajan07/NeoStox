@@ -1,0 +1,6 @@
+neoStoxTestClasses\ValidateTradePanel.class
+neoStoxTestClasses\ValidateUsername.class
+neoStoxTestClasses\ValidateUsernameAndBalance.class
+neoStoxUtilityClasses\NeoStoxUtility.class
+neoStoxBaseClasses\NeoStoxBase.class
+neoStoxTestClasses\ValidateSearchFunctionality.class
