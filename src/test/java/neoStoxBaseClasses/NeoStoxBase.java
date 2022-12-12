@@ -21,7 +21,7 @@ public class NeoStoxBase
 		
 		
 
-		Thread.sleep(1000);
+		Thread.sleep(800);
 
 		
 		driver.get(NeoStoxUtility.readdatafromproperties("url"));
